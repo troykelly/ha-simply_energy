@@ -1,0 +1,8 @@
+{
+  "domain": "simply_energy",
+  "name": "Simply Energy Power Sensor",
+  "documentation": "https://github.com/troykelly/ha-simply_energy/",
+  "dependencies": ["mqtt"],
+  "codeowners": ["troykelly"],
+  "requirements": []
+}
